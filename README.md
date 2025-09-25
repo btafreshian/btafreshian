@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I’m **Benyamin**
 
-<!--
-**btafreshian/btafreshian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Professional · AI Security Researcher**
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/benyamin-tafreshian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:bentsec@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="RESUME_PLACEHOLDER"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="WEBSITE_PLACEHOLDER"><img alt="Personal Site" src="https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## About
+
+* Secure-by-design mindset across **cloud**, **networks**, and **ML systems**
+* Research interests: **adversarial ML**, **robust intrusion detection**, **secure model pipelines**
+* Practiced in **incident response**, **threat hunting**, **vuln management**, and **forensics**
+
+---
+
+## Skills (focused)
+
+<p align="left">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-5A29E4?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-orange?style=for-the-badge" />
+  <!-- Cloud & Infra -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
+**Also use:** Linux/Bash · Windows/PowerShell · Snort · pfSense · Volatility · Autopsy · Qualys · Hashcat · PostgreSQL · MongoDB · Git · JIRA
+
+---
+
+## Certifications
+
+* **ISC2 Certified in CyberSecurity (CC)** · *Jan 2025*
+
+---
+
+## Education
+
+* **M.S. in Computer Science (Security)** — Boston University, Metropolitan College *(2024–2025)*
+* **B.S. in Computer Engineering** — University of Tabriz *(2016–2020)*
+
+---
+
+## Experience Highlights
+
+* **Research Assistant (AI Security)** — focusing on vulnerabilities in ML systems and defense frameworks
+* **Teaching Assistant (Network Security)** — led hands‑on labs in firewalling, cloud security, and pentesting
+
+---
+
+## Publications
+
+* *A Defensive Framework Against Adversarial Attacks on ML‑Based NIDS* — **IEEE TrustCom 2024**
+* *RoguePrompt: Dual‑Layer Ciphering for Self‑Reconstruction to Circumvent LLM Moderation* — **to appear at ACSAC 2025**
+
+---
+
+## Awards
+
+* **NCAE Cyber Games** — Team Captain & Most Improved (2024, 2025) · Top‑5 national placements
+* **Excellence in Graduate Studies Award (CS)** — Boston University (2025)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B3ny4m1n74f&show_icons=true&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3ny4m1n74f&layout=compact&theme=github_dark" height="180" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=B3ny4m1n74f&theme=dark&hide_border=true" height="150" />
+</p>
+
+
+> *Open to collaborations in security research, adversarial ML, and applied cybersecurity.*
