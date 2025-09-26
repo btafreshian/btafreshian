@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/benyamin-tafreshian/)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:bentsec@proton.me)
 [![Resume](https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](RESUME_PLACEHOLDER)
-[![Personal Site](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge\&logo=internet-explorer\&logoColor=white)](https://benyamint.vercel.app/)
+[![Personal Site](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge\&logo=internet-explorer\&logoColor=white)](https://benyamint.dev)
 
 ---
 
