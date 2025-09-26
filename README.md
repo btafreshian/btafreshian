@@ -1,14 +1,9 @@
 # 👋 Hi, I’m **Benyamin**
 
-**Cybersecurity Professional · AI Security Researcher**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/benyamin-tafreshian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:bentsec@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-  <a href="RESUME_PLACEHOLDER"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="WEBSITE_PLACEHOLDER"><img alt="Personal Site" src="https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"></a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/benyamin-tafreshian/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:bentsec@proton.me)
+[![Resume](https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](RESUME_PLACEHOLDER)
+[![Personal Site](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge\&logo=internet-explorer\&logoColor=white)](WEBSITE_PLACEHOLDER)
 
 ---
 
@@ -22,21 +17,16 @@
 
 ## Skills (focused)
 
-<p align="left">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <!-- Security -->
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-5A29E4?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-orange?style=for-the-badge" />
-  <!-- Cloud & Infra -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)](https://isocpp.org)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)](https://www.splunk.com)
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)](https://portswigger.net/burp)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-5A29E4?style=for-the-badge\&logo=owasp\&logoColor=white)](https://owasp.org/www-project-zap/)
+[![MITRE ATT\&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-orange?style=for-the-badge)](https://attack.mitre.org)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)](https://cloud.google.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)](https://www.wireshark.org)
 
 **Also use:** Linux/Bash · Windows/PowerShell · Snort · pfSense · Volatility · Autopsy · Qualys · Hashcat · PostgreSQL · MongoDB · Git · JIRA
 
@@ -85,6 +75,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=B3ny4m1n74f&theme=dark&hide_border=true" height="150" />
 </p>
-
 
 > *Open to collaborations in security research, adversarial ML, and applied cybersecurity.*
