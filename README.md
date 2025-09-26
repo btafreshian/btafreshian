@@ -21,7 +21,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)](https://isocpp.org)
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)](https://www.splunk.com)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)](https://portswigger.net/burp)
-[![ZAP](https://img.shields.io/badge/OWASP%20ZAP-5A29E4?style=for-the-badge\&logo=owasp\&logoColor=white)](https://www.zaproxy.org/)
+[![ZAP](https://img.shields.io/badge/ZAP-5A29E4?style=for-the-badge&logo=owasp&logoColor=white)](https://www.zaproxy.org)
 [![MITRE ATT\&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-orange?style=for-the-badge)](https://attack.mitre.org)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)](https://aws.amazon.com)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)](https://cloud.google.com)
