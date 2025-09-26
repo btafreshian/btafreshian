@@ -68,9 +68,6 @@
 
 ## GitHub Stats
 
-## GitHub Stats
-## GitHub Stats
-
 <p align="center">
   <a href="https://github.com/btafreshian">
     <img src="https://github-readme-stats.vercel.app/api?username=btafreshian&show_icons=true&theme=transparent&hide_border=true" height="150" />
