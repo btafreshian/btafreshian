@@ -75,5 +75,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=btafreshian&theme=dark&hide_border=true" height="150" />
 </p>
-
-> *Open to collaborations in security research, adversarial ML, and applied cybersecurity.*
