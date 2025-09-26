@@ -69,18 +69,14 @@
 ## GitHub Stats
 
 ## GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/btafreshian">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=btafreshian&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=transparent&hide_border=true"
-      height="150"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=btafreshian&show_icons=true&theme=transparent&hide_border=true" height="150" />
   </a>
+  &nbsp;&nbsp;&nbsp; <!-- adds horizontal space -->
   <a href="https://github.com/btafreshian?tab=repositories">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=btafreshian&layout=compact&langs_count=6&card_width=360&theme=transparent&hide_border=true"
-      height="150"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btafreshian&layout=compact&langs_count=6&card_width=360&theme=transparent&hide_border=true" height="150" />
   </a>
 </p>
