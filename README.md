@@ -69,11 +69,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B3ny4m1n74f&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3ny4m1n74f&layout=compact&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=btafreshian&show_icons=true&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btafreshian&layout=compact&theme=github_dark" height="180" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=B3ny4m1n74f&theme=dark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=btafreshian&theme=dark&hide_border=true" height="150" />
 </p>
 
 > *Open to collaborations in security research, adversarial ML, and applied cybersecurity.*
