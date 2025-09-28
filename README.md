@@ -34,16 +34,14 @@
 
 ## Top Repositories
 
-<dl>
-  <dt><a href="https://github.com/btafreshian/96bit-block-cipher"><strong>96bit-block-cipher</strong></a></dt>
-  <dd>Cryptography — compact 96-bit block cipher with Rijndael S-boxes and a custom P-box; includes tests and analysis.</dd>
+- **[96bit-block-cipher](https://github.com/btafreshian/96bit-block-cipher)** — compact 96-bit block cipher with Rijndael S-boxes and a custom P-box  
+  <sub>Cryptography · Python · Tests & analysis</sub>
 
-  <dt><a href="https://github.com/btafreshian/neuroviz-nn-visualization"><strong>neuroviz-nn-visualization</strong></a></dt>
-  <dd>Visualization — interactive neural-network visualizer (layers, activations, gradients); notebooks and demos.</dd>
+- **[neuroviz-nn-visualization](https://github.com/btafreshian/neuroviz-nn-visualization)** — interactive visualizer for layers, activations, and gradients  
+  <sub>Visualization · PyTorch · Jupyter</sub>
 
-  <dt><a href="https://github.com/btafreshian/redditengage-ml-predictor"><strong>redditengage-ml-predictor</strong></a></dt>
-  <dd>NLP — predicts Reddit post engagement with feature engineering and ML baselines; clean evaluation pipeline.</dd>
-</dl>
+- **[redditengage-ml-predictor](https://github.com/btafreshian/redditengage-ml-predictor)** — predicts Reddit post engagement with engineered features and ML baselines  
+  <sub>NLP · scikit-learn · Evaluation pipeline</sub>
 
 ---
 
