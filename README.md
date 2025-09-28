@@ -11,7 +11,7 @@
 
 * Secure-by-design mindset across **cloud**, **networks**, and **ML systems**
 * Research interests: **adversarial ML**, **robust intrusion detection**, **secure model pipelines**
-* Practiced in **incident response**, **threat hunting**, **vuln management**, and **forensics**
+* Practiced in **incident response**, **threat hunting**, **vulnerability management**, and **forensics**
 
 ---
 
