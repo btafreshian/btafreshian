@@ -32,6 +32,22 @@
 
 ---
 
+## Top Repositories
+
+<p align="center">
+  <a href="https://github.com/btafreshian/96bit-block-cipher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btafreshian&repo=96bit-block-cipher&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/btafreshian/neuroviz-nn-visualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btafreshian&repo=neuroviz-nn-visualization&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/btafreshian/redditengage-ml-predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btafreshian&repo=redditengage-ml-predictor&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ## Certifications
 
 * **ISC2 Certified in CyberSecurity (CC)** · *Jan 2025*
@@ -49,6 +65,7 @@
 
 * **Research Assistant (AI Security)** — focusing on vulnerabilities in ML systems and defense frameworks
 * **Teaching Assistant (Network Security)** — led hands‑on labs in firewalling, cloud security, and pentesting
+* **Teaching Assistant (Big Data Analytics)** — led hands‑on labs in firewalling, cloud security, and pentesting
 
 ---
 
