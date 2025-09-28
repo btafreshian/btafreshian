@@ -34,17 +34,16 @@
 
 ## Top Repositories
 
-<p align="center">
-  <a href="https://github.com/btafreshian/96bit-block-cipher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btafreshian&repo=96bit-block-cipher&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/btafreshian/neuroviz-nn-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btafreshian&repo=neuroviz-nn-visualization&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/btafreshian/redditengage-ml-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=btafreshian&repo=redditengage-ml-predictor&theme=transparent&hide_border=true" />
-  </a>
-</p>
+<dl>
+  <dt><a href="https://github.com/btafreshian/96bit-block-cipher"><strong>96bit-block-cipher</strong></a></dt>
+  <dd>Cryptography — compact 96-bit block cipher with Rijndael S-boxes and a custom P-box; includes tests and analysis.</dd>
+
+  <dt><a href="https://github.com/btafreshian/neuroviz-nn-visualization"><strong>neuroviz-nn-visualization</strong></a></dt>
+  <dd>Visualization — interactive neural-network visualizer (layers, activations, gradients); notebooks and demos.</dd>
+
+  <dt><a href="https://github.com/btafreshian/redditengage-ml-predictor"><strong>redditengage-ml-predictor</strong></a></dt>
+  <dd>NLP — predicts Reddit post engagement with feature engineering and ML baselines; clean evaluation pipeline.</dd>
+</dl>
 
 ---
 
