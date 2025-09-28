@@ -72,7 +72,7 @@
 ## Publications
 
 * *A Defensive Framework Against Adversarial Attacks on ML‑Based NIDS* — **IEEE TrustCom 2024**
-* *RoguePrompt: Dual‑Layer Ciphering for Self‑Reconstruction to Circumvent LLM Moderation* — **to appear at ACSAC 2025**
+* *RoguePrompt: Dual‑Layer Ciphering for Self‑Reconstruction to Circumvent LLM Moderation* — **ACSAC 2025**
 
 ---
 
