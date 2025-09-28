@@ -10,7 +10,7 @@
 ## About
 
 * Secure-by-design mindset across **cloud**, **networks**, and **ML systems**
-* Research interests: **adversarial ML**, **robust intrusion detection**, **secure LLM pipelines**
+* Research interests: **adversarial ML**, **intrusion detection systems**, **secure LLMs**
 * Practiced in **incident response**, **threat hunting**, **vulnerability management**, and **forensics**
 
 ---
