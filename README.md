@@ -9,9 +9,9 @@
 
 ## About
 
-* Secure-by-design mindset across **cloud**, **networks**, and **artifical intelligence**
 * Research interests: **adversarial ML**, **intrusion detection systems**, **secure LLMs**
 * Practiced in **incident response**, **threat hunting**, **vulnerability management**, and **forensics**
+* Secure-by-design mindset across **cloud**, **networks**, and **artifical intelligence**
 
 ---
 
