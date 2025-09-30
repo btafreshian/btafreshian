@@ -35,10 +35,10 @@
 ## Top Repositories
 
 - **[96bit-block-cipher](https://github.com/btafreshian/96bit-block-cipher)** — compact 96-bit block cipher with Rijndael S-boxes and a custom P-box  
-  <sub>Cryptography · Python · Tests & analysis</sub>
+  <sub>Cryptography · C++ · Tests & analysis</sub>
 
 - **[neuroviz-nn-visualization](https://github.com/btafreshian/neuroviz-nn-visualization)** — interactive visualizer for layers, activations, and gradients  
-  <sub>Visualization · PyTorch · Jupyter</sub>
+  <sub>Visualization · PyTorch · React</sub>
 
 - **[redditengage-ml-predictor](https://github.com/btafreshian/redditengage-ml-predictor)** — predicts Reddit post engagement with engineered features and ML baselines  
   <sub>NLP · scikit-learn · Evaluation pipeline</sub>
