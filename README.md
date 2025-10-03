@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Benyamin**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/benyamin-tafreshian/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/benyamint)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:bentsec@proton.me)
 [![Resume](https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](https://docs.google.com/document/d/1FnF7JRIFYpMd__bHvh92hD9bSrDjKn-L/preview)
 [![Personal Site](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge\&logo=internet-explorer\&logoColor=white)](https://benyamint.dev)
