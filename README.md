@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Benyamin**
+# 👋 Hi, I’m **Ben**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/benyamint)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:bentsec@proton.me)
