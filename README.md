@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benyamint)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:bentsec@proton.me)
-[![Personal Site](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benyamint.dev)
+[![Personal Site](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://benyamint.dev)
 [![Resume](https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1S6djE_JCQXhl1bxcIIlV5IECAmfQA00Q/view)
 [![CV](https://img.shields.io/badge/CV-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1280oHcJ82H2eon0o91U2kRNSxGzJ6sos/view)
 
