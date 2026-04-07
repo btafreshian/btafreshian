@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/benyamint)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:bentsec@proton.me)
 [![Resume](https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge\&logo=adobeacrobatreader\&logoColor=white)](https://drive.google.com/file/d/1S6djE_JCQXhl1bxcIIlV5IECAmfQA00Q/view)
+[![CV](https://img.shields.io/badge/CV-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1280oHcJ82H2eon0o91U2kRNSxGzJ6sos/view)
 [![Personal Site](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge\&logo=internet-explorer\&logoColor=white)](https://benyamint.dev)
 
 ---
