@@ -64,7 +64,7 @@
 * **Research Assistant (AI Security)** — focusing on vulnerabilities in ML systems and defense frameworks
 * **Teaching Assistant (Network Security)** — led hands‑on labs in firewalling, cloud security, and pentesting
 * **Teaching Assistant (Big Data Analytics)** — developed and ran project-based sessions in Spark/PySpark, Kafka streaming, and Hadoop
-* **Teaching Assistant (Generative AI)** — supported an advanced, theory-focused course covering transformers, GANs, diffusion models, prompt engineering, and LLM evaluation
+* **Teaching Assistant (Generative AI)** — supported coursework on transformers, GANs, diffusion models, and LAGM evaluation
 
 ---
 
