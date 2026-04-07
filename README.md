@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benyamint)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logoColor=white)](mailto:bentsec@proton.me)
 [![Personal Site](https://img.shields.io/badge/Personal%20Site-000000?style=for-the-badge\&logo=internet-explorer\&logoColor=white)](https://benyamint.dev)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=gkDseBcAAAAJ&hl=en)
 [![Resume](https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1S6djE_JCQXhl1bxcIIlV5IECAmfQA00Q/view)
 [![Academic CV](https://img.shields.io/badge/Academic%20CV-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1280oHcJ82H2eon0o91U2kRNSxGzJ6sos/view)
 
