@@ -72,7 +72,7 @@
 ## Publications
 
 * **[A Defensive Framework Against Adversarial Attacks on ML-Based NIDS](https://ieeexplore.ieee.org/abstract/document/10945239)** — IEEE TrustCom 2024
-* **[RoguePrompt: Dual-Layer Ciphering for Self-Reconstruction to Circumvent LLM Moderation](https://arxiv.org/abs/2511.18790)** — Preprint
+* **[RoguePrompt: Dual-Layer Encoding for Self-Reconstruction to Circumvent LLM Moderation](https://arxiv.org/abs/2607.27373)** — Preprint
 
 ---
 
